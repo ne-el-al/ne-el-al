@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ne-el-al
-- 👀 I’m interested in web development, Java, Python and SQL.
-- 🌱 I’m currently learning at Griffith College in Dublin for Higher Diploma in Science in Computing.
-- 💞️ I’m looking to collaborate on web applications projects.
+- 👀 I’m interested in web development, frontend development and UI/UX.
+- 🌱 Graduated from Griffith College in Dublin with a Higher Diploma in Science in Computing.
+- 💞️ I’m looking to collaborate on web applications projects especially on the frontend.
 - 📫 How to reach me: e.a.negreeva@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Love and drink a lot of black tea
