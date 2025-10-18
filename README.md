@@ -6,6 +6,8 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Love and drink a lot of black tea
 
+
+[![An image of @neelal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/neelal)](https://holopin.io/@neelal)
 <!---
 ne-el-al/ne-el-al is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
